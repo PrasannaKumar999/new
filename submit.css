@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    width:600px;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 100px;
+    margin-left: 350px;
+    border: 8px red solid;
+    border-radius: 50%;
+    background-color:#008080;
+}
